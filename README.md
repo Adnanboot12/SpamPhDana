@@ -11,7 +11,7 @@
 
  - Step 1: _ubah website yang mau di spam di file constant.py._
  - caranya: _nano constant.py_
- - Step 3: _cara ubah data spam yang mau dikirim di file helper.py
- - Step 4: _nano helper.py_
+ - Step 2: _cara ubah data spam yang mau dikirim di file helper.py
+ - caranya: _nano helper.py_
 
 ---
