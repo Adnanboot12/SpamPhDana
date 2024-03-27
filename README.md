@@ -7,16 +7,10 @@
 ![Facebook-Image](https://github.com/Adnanboot12/SpamPhDana/blob/main/Data/Screenshot_2024-03-27-14-12-42-53.png)
 
 ##
-
-### What Features Does It Have?
-
-- This script was 100% created using the latest version of Instagram API and can be logged in using cookies.
-- Having form data in the request will prevent spam from being detected by Instagram.
-- This script has a feature to get Likes, Comments and Followers for free.
-- This script has a feature to secure cracked Instagram accounts.
-- This script has a feature to generate user-agents randomly and always up to date.
-- There is one feature that is quite dangerous, namely brutally reporting other people's Instagram accounts.
-- This script has a method that automatically updates every second.
+### Fitur Apa Saja yang Dimilikinya?
+- Skrip ini bypass cloudflare menggunakan random UA.
+- Anti Ip SPAM.
+- Script ini masih tahap pengambang dan masih ada bug 
 
 ### Works In Terminal?
   - [Windows PowerShell](https://www.microsoft.com/store/productId/9N0DX20HK701) / Kali Linux
@@ -34,14 +28,14 @@
   >> apt install python-cryptography
   >> SODIUM_INSTALL=system pip install pynacl
   >> git clone --depth 1 https://github.com/Adnanboot12/SpamPhDana.git
-  >> cd "SpamPhDana"
+  >> cd SpamPhDana
   >> python -m pip install -r requirements.txt
   >> python bot.py
   ```
   - **Running on Termux**
   
     ```
-    >> cd "$HOME/SpamPhDana"
+    >> cd $HOME/SpamPhDana
     >> Python bot.py
     ```
 
@@ -50,15 +44,15 @@
   ```
   >> apt update -y && apt upgrade -y
   >> pkg install git python-pip
-  >> git clone --depth 1 https://github.com/Adnanboot12/SpamPhDana.git
-  >> cd "SpamPhDana"
+  >> git clone https://github.com/Adnanboot12/SpamPhDana.git
+  >> cd SpamPhDana
   >> python -m pip install -r requirements.txt
   >> python bot.py
   ```
   - **RUNNING on Termux**
   
     ```
-    >> cd "$HOME/SpamPhDana"
+    >> cd $HOME/SpamPhDana
     >> Python bot.py
     ```
 
@@ -68,6 +62,9 @@
 
 ##
 
+### DONASI
+-DANA:_083198177108_
+-GOPAY:_083198177108_
 ### Warning!
 As a developer, I want to emphasize that use of this tools is entirely the user's responsibility. I am not responsible for any consequences that may occur, whether intended or unintentional, when you use this tools.
 
