@@ -17,8 +17,7 @@
   - [Termux](https://f-droid.org/repo/com.termux_118.apk) / [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=id)
 
 ##
-  
-### Installation
+  ### Installation
 
 - **Linux - [Termux](https://drive.google.com/file/d/16C8RCEC_0GJWXzZt1P5-TmsNvj1sxP_y/view?usp=sharing)**
 
@@ -55,7 +54,13 @@
     >> cd $HOME/SpamPhDana
     >> Python bot.py
     ```
-
+### Sebelum Run Baca Dulu Ini
+  ```
+1.Cara Pengambilan website yang di run
+contoh website url data https://phdana.com/ast/req/3678fd6893fb190b400d9d618c79cf92.php
+kita hanya mengambil bagian https://phdana.com ini saja
+2.Sesusah Anda Tambahkan Jangn lupa Tambahkan kata katanya
+```
 ### Screenshots
 
 ![Results/Ok-16-July-2023.txt](https://github.com/Adnanboot12/SpamPhDana/blob/main/Data/Screenshot_2024-03-27-04-13-17-30.png)
