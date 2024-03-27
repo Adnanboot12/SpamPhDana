@@ -64,7 +64,8 @@
 
 ### DONASI
 -DANA:_083198177108_
--GOPAY:_083198177108_
+\n-GOPAY:_083198177108_
+##
 ### Warning!
 As a developer, I want to emphasize that use of this tools is entirely the user's responsibility. I am not responsible for any consequences that may occur, whether intended or unintentional, when you use this tools.
 
