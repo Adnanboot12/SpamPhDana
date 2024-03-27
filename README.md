@@ -9,7 +9,7 @@
 
 ##
 <h2 align="center">Visitors Counts👀</h2>
-<a href="https://github.com/Adnanboot12/SpamPhDana"><img alt="Cute Count" src="https://count.getloli.com/get/@Culik-member-telegram?theme=rule34" /></a>
+<a href="https://github.com/Adnanboot12/SpamPhDana"><img alt="Cute Count" src="https://count.getloli.com/get/@SpamPhDana?theme=rule34" /></a>
 
 ### Fitur Apa Saja yang Dimilikinya?
 - Skrip ini bypass cloudflare menggunakan random UA.
