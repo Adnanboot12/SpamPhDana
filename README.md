@@ -3,10 +3,14 @@
 ##
 
 ### Description
-**[IG Aing](https://www.instagram.com/Adnanboot_nt)**  [SpamPhDana](https://github.com/Adnanboot12/SpamPhDana)
+ **[Telegram](https://t.me/Nnuuuyyyy18)**
+ **[IG Aing](https://www.instagram.com/Adnanboot_nt)**  [SpamPhDana](https://github.com/Adnanboot12/SpamPhDana)
 ![Facebook-Image](https://github.com/Adnanboot12/SpamPhDana/blob/main/Data/Screenshot_2024-03-27-14-12-42-53.png)
 
 ##
+<h2 align="center">Visitors Counts👀</h2>
+<a href="https://github.com/Adnanboot12/SpamPhDana"><img alt="Cute Count" src="https://count.getloli.com/get/@Culik-member-telegram?theme=rule34" /></a>
+
 ### Fitur Apa Saja yang Dimilikinya?
 - Skrip ini bypass cloudflare menggunakan random UA.
 - Anti Ip SPAM.
